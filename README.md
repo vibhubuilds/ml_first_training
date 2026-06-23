@@ -25,7 +25,7 @@ The dataset used in this project was sourced from Kaggle and converted into a st
 5. **Evaluation:** Evaluated the model using standard regression metrics.
 
 ## 📈 Model Performance
-The Linear Regression baseline model achieved an **$R^2$ score of approximately 75%**. 
+The Linear Regression baseline model achieved an score of approximately 75%**. 
 
 Given the massive dataset size of 10,000 rows, a 75% variance explanation shows a strong, clear linear relationship between maintaining a solid CGPA, securing internships, and getting successfully placed.
 
