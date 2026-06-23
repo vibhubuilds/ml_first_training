@@ -32,5 +32,4 @@ Given the massive dataset size of 10,000 rows, a 75% variance explanation shows 
 ## 💻 Repository Structure
 * `*.ipynb` : The Jupyter Notebook containing the full step-by-step EDA, data preprocessing, and model training logic.
 * `*.py` : The executable Python script version of the model pipeline.
-* `requirements.txt` : List of necessary libraries to replicate the environment.
 
